@@ -1,0 +1,5 @@
+Django==2.0.13
+django-tinymce==2.8.0
+lxml==3.5.0
+Pillow==5.4.1
+pytz==2015.4
